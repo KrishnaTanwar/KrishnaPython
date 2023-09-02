@@ -16,5 +16,5 @@ g = (f - 2*h)/2
 c = h - g
 
 # Ouput Section
-print("There are",g,"goats and",c,"chikens.")
+print("There are",int(g),"goats and",int(c),"chikens.")
 
