@@ -8,8 +8,8 @@ a = int(input("Enter no. of overs:"))
 
 # Logic Section
 
-mx = a*36
+mx = a*33 + 3
 
 # Output Section
 
-print(mx)
+print("Maximum  runs a player can score:",mx)
