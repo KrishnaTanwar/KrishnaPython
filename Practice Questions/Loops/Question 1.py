@@ -1,4 +1,5 @@
-# Question 1 : Program to find whether an entered number is prime or not.
+# Question 1 : Program to find whether an entered number is prime or not.
+
 
 # Input Section
 
